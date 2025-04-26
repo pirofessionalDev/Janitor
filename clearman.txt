@@ -15,3 +15,5 @@ fi
 
 echo "Memory Status:"
 free -h
+
+#Damn i thought the other file was uploaded as an executable.
